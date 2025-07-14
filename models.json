@@ -1,0 +1,11 @@
+{
+    "cuda": [
+        {
+            "repo_id": "Pictorial/lama",
+            "local_path": "custom_nodes/ComfyUI-lama-remover/ckpts",
+            "files": [
+                "big-lama.pt"
+            ]
+        }
+    ]
+}
